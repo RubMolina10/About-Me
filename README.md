@@ -6,7 +6,7 @@ Soy un ingeniero apasionado por el desarrollo de soluciones reales mediante el u
 
 ---
 
-## 📍 Sobre mí
+## 📍 Sobre mí 
 
 - 📍 Ubicación: Guasave, Sinaloa, México  
 - 📧 Email: [palomino070715@gmail.com](mailto:palomino070715@gmail.com)  
